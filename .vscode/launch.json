@@ -1,0 +1,32 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ConsumerAS",
+            "request": "launch",
+            "mainClass": "ConsumerAS",
+            "projectName": "201912Goldcar"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Consumer",
+            "request": "launch",
+            "mainClass": "Consumer",
+            "projectName": "201912Goldcar"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Producer",
+            "request": "launch",
+            "mainClass": "Producer",
+            "projectName": "201912Goldcar"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "201912Goldcar"
+        }
+    ]
+}
